@@ -36,7 +36,7 @@ p {
 /* Pojedynczy blok */
 .box {
   width: 45%;
-  background-color: #7fffd4; /* aquamarine */
+  background-color: #f54242 /* aquamarine */
   padding: 30px;
   box-sizing: border-box;
 }
@@ -56,3 +56,4 @@ a {
 a:hover {
   color: darkblue;
 }
+
